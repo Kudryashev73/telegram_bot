@@ -1,0 +1,9 @@
+aiogram==3.26.0
+requests==2.33.0
+Pillow==12.1.1
+huggingface_hub==1.7.2
+python-dotenv==1.2.2
+aiohttp==3.13.3
+replicate==1.0.0
+
+

@@ -1,0 +1,54 @@
+# Секретные файлы
+.env
+.env.local
+.env.production
+*.env
+
+# Конфигурация с токенами
+config.py
+secrets.py
+bot_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Виртуальное окружение
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+*.log
+*.tmp
+temp_*.png
+temp_*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
